@@ -1,5 +1,3 @@
 # 2024-IGEM
 
 OUC-China
-
-2025
